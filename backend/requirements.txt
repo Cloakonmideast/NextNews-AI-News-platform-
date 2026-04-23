@@ -1,0 +1,12 @@
+Flask
+flask-cors
+
+requests
+beautifulsoup4
+lxml
+
+google-search-results
+google-generativeai
+
+elevenlabs
+gTTS
