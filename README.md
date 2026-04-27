@@ -48,9 +48,6 @@ This repository is organized into the following main directories:
 - Git
 
 
-
-3
-
 ## Features
 
 - **News Aggregation**: Collects articles from diverse sources
