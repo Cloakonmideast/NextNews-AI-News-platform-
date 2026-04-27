@@ -29,7 +29,7 @@ This repository is organized into the following main directories:
 ## Technology Stack
 
 ### Frontend 
-- Next.js for the user interface
+- React.js for the user interface
 - Modern JavaScript frameworks for interactive visualizations
 - Responsive design for cross-device compatibility
 
@@ -43,47 +43,13 @@ This repository is organized into the following main directories:
 
 ### Prerequisites
 
-- Node.js (v14.x or later)
+- React.js 
 - Python (3.8 or later)
 - Git
 
-### Installation
-
-1. Clone the repository:
-   
-```bash
-
-git clone https://github.com/sa778888/newsai.git
-
-cd newsai
-```
-
-2. Set up frontend:
-
-```bash
-cd NextNews
-
-npm install
-
-npm run dev
-```
 
 
-3. Set up backend:
-
-```bash
-
-cd backend
-
-pip install -r requirements.txt
-
-python app.py
-
-```
-4. Create necessary configuration files:
-- Set up API keys for news sources
-- Configure database connections
-- Set environment variables
+3
 
 ## Features
 
@@ -103,20 +69,6 @@ This project follows a modular development approach with:
 - Data processing pipelines for news content
 - AI model integration for advanced analysis
 
-## Contribution Guidelines
-
-Contributions to NewsAI are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - News data providers
@@ -124,9 +76,6 @@ This project is licensed under the Apache 2.0 License - see the LICENSE file for
 - AI research community
 - Contributors and testers
 
-## Contact
-
-Repository Owner: [sa778888](https://github.com/sa778888)
 
 
 
